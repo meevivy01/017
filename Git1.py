@@ -1043,3 +1043,4 @@ if __name__ == "__main__":
         exit()
     scraper = JobThaiRowScraper()
     scraper.run()
+
